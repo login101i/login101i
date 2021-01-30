@@ -1,7 +1,5 @@
 ### He is what I'm working on👋
 
-<!--
-**login101i/login101i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mc_krus on instagram and via email: maciejkruszyniak@gmailc.com
 - 😄 Pronouns: ... We/Him
 - ⚡ Fun fact: ... I'am learing spanish for no reason and I want lern french too ;)
--->
+
