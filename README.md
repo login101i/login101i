@@ -1,8 +1,6 @@
 ### He is what I'm working on👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on MERN ecommerce projects
 - 🌱 I’m currently learning React and reading documentation of various packages.
 - 👯 I’m looking to collaborate on ecommerce projcets adding new, great functionalities
