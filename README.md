@@ -1,4 +1,4 @@
-### He is what I'm working on👋
+### Hello :) Here is what I'm working on👋
 
 
 - 🔭 I’m currently working on MERN ecommerce projects
