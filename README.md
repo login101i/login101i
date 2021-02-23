@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with backend end error understanding.
 - 💬 Ask me about to prepare fantastic coctail for Saturday evening  ;)
 - 📫 How to reach me: mc_krus on instagram and via email: maciejkruszyniak@gmail.com
-- 😄 Pronouns: ... We/Him
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'am learing spanish for no reason and I want lern french too ;)
 
 
